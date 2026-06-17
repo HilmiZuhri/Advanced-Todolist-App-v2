@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useRef, useEffect } from 'react';
+import { useRef, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { Bell, X, AlertCircle, Clock, CalendarCheck, CheckSquare } from 'lucide-react';
 import { AppNotification } from '../types';
