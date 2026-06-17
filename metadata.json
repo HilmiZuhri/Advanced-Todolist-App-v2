@@ -1,0 +1,6 @@
+{
+  "name": "Advanced Todo List",
+  "description": "An advanced Todo List application with rich task attributes, kanban and list layouts, custom subcategories, filters, reminders, and dark/light modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
