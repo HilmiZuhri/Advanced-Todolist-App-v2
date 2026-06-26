@@ -395,7 +395,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="font-display font-medium text-lg text-slate-900 dark:text-white italic tracking-tight flex items-center">
-                TaskNest <span className="text-indigo-600 dark:text-indigo-400 font-normal not-italic text-sm ml-1">Pro</span>
+                TaskFlow <span className="text-indigo-600 dark:text-indigo-400 font-normal not-italic text-sm ml-1"></span>
               </h1>
               <p className="text-[9px] text-slate-500 dark:text-slate-400 font-mono tracking-wide leading-none mt-0.5">PRODUCTIVITY HUB</p>
             </div>
